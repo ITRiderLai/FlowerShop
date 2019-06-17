@@ -1,0 +1,4 @@
+<resources>
+	<string moduleConfig="true" name="reactNativeCodePush_androidDeploymentKey">qIcdxu4aOuybs5qPvlFBg4Zdg7nvByFXMW-AE</string>
+    <string name="app_name">花间锦绣</string>
+</resources>

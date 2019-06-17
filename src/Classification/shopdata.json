@@ -1,0 +1,345 @@
+{
+  "data": [{
+      "firstCateName": "旗袍",
+      "firstCateId": "101",
+      "secondCateItems": [{
+        "secondCateName": "旗袍New",
+        "secondCateId": "1001",
+        "items": [{
+            "itemImg": "http://goodlist.oss-cn-beijing.aliyuncs.com/p1.jpg",
+            "title": "真丝绒系列",
+            "itemId": "2001",
+            "headerimg":"http://headerimages.oss-cn-beijing.aliyuncs.com/01/1.webp.jpg",
+            "name":"夏季新款蕾丝绣花雪纺日常时尚改良旗袍年轻款优雅少女式连衣裙",
+            "price":"150"
+          },
+          {
+            "itemImg": "http://goodlist.oss-cn-beijing.aliyuncs.com/p11.jpg",
+            "title": "时尚方巾",
+            "itemId": "2002",
+            "headerimg":"http://headerimages.oss-cn-beijing.aliyuncs.com/02/1.webp.jpg",
+            "name":"秀禾服新娘2019新款嫁衣中式龙凤褂结婚敬酒服孕妇夏季大码秀和服 旗袍",
+            "price":"250"
+          },
+          {
+            "itemImg": "http://goodlist.oss-cn-beijing.aliyuncs.com/p5.jpg",
+            "title": "真丝长巾",
+            "itemId": "2003",
+            "headerimg":"http://headerimages.oss-cn-beijing.aliyuncs.com/03/1.webp.jpg",
+            "name":"戚薇旗袍改良中长款夏季新式中国风少女日常大码复古修身性感显瘦 旗袍",
+            "price":"350"
+          },
+          {
+            "itemImg": "http://goodlist.oss-cn-beijing.aliyuncs.com/p13.jpg",
+            "title": "时尚披肩",
+            "itemId": "2004",
+            "headerimg":"http://headerimages.oss-cn-beijing.aliyuncs.com/04/1.webp.jpg",
+            "name":"aaaaaaaaaaaaaaaaaaaaaa",
+            "price":"550"
+          },
+          {
+            "itemImg": "http://goodlist.oss-cn-beijing.aliyuncs.com/p2.jpg",
+            "title": "真丝刺绣系列",
+            "itemId": "2005",
+            "headerimg":"http://headerimages.oss-cn-beijing.aliyuncs.com/05/1.webp.jpg",
+            "name":"秀禾服新娘2019新款龙凤褂结婚中式婚纱礼服旗袍古装敬酒服薄款夏 旗袍",
+            "price":"150"
+          },
+          {
+            "itemImg": "http://goodlist.oss-cn-beijing.aliyuncs.com/p12.jpg",
+            "title": "羊毛系列",
+            "itemId": "2006",
+            "headerimg":"http://headerimages.oss-cn-beijing.aliyuncs.com/06/1.webp.jpg",
+            "name":"aaaaaaaaaaaaaaaaaaaaaa",
+            "price":"150"
+          }
+        ]
+      }]
+    },
+    {
+      "firstCateName": "手工刺绣",
+      "firstCateId": "102",
+      "secondCateItems": [{
+        "secondCateName": "刺绣New",
+        "secondCateId": "1002",
+        "items": [{
+          "itemImg": "http://shougongcixiu.oss-cn-beijing.aliyuncs.com/goodlist/g3.jpg",
+          "title": "真丝绒系列",
+          "itemId": "2007",
+          "headerimg":"http://headerimages.oss-cn-beijing.aliyuncs.com/03/1.webp.jpg",
+          "name":"YINER音儿女装2019夏季新款中国风钩花蕾丝拼接旗袍领收腰连衣裙",
+          "price":"150"
+        },
+        {
+          "itemImg": "http://shougongcixiu.oss-cn-beijing.aliyuncs.com/goodlist/g4.jpg",
+          "title": "时尚方巾",
+          "itemId": "2008",
+          "headerimg":"http://headerimages.oss-cn-beijing.aliyuncs.com/03/1.webp.jpg",
+          "name":"YINER音儿女装2018春秋款精致刺绣亮丝开叉中国风旗袍连衣裙 旗袍",
+          "price":"150"
+        },
+        {
+          "itemImg": "http://shougongcixiu.oss-cn-beijing.aliyuncs.com/goodlist/g7.jpg",
+          "title": "真丝长巾",
+          "itemId": "2009",
+          "headerimg":"http://headerimages.oss-cn-beijing.aliyuncs.com/03/1.webp.jpg",
+          "name":"帛媛高端真丝香云纱连衣裙女中长款加厚桑蚕丝中国风改良旗袍大码",
+          "price":"150"
+        },
+        {
+          "itemImg": "http://shougongcixiu.oss-cn-beijing.aliyuncs.com/goodlist/g8.jpg",
+          "title": "时尚披肩",
+          "itemId": "2010",
+          "headerimg":"http://headerimages.oss-cn-beijing.aliyuncs.com/03/1.webp.jpg",
+          "name":"婚礼妈妈装2019夏新款复古改良旗袍重磅真丝两件套装喜婆婆礼服 旗袍",
+          "price":"150"
+        },
+        {
+          "itemImg": "http://shougongcixiu.oss-cn-beijing.aliyuncs.com/goodlist/g9.jpg",
+          "title": "真丝刺绣系列",
+          "itemId": "2011",
+          "headerimg":"http://headerimages.oss-cn-beijing.aliyuncs.com/03/1.webp.jpg",
+          "name":"真丝旗袍长款2019春夏季新款复古桑蚕丝日常改良优雅修身连衣裙女 旗袍",
+          "price":"150"
+        },
+        {
+          "itemImg": "http://shougongcixiu.oss-cn-beijing.aliyuncs.com/goodlist/x1.jpg",
+          "title": "羊毛系列",
+          "itemId": "2012",
+          "headerimg":"http://headerimages.oss-cn-beijing.aliyuncs.com/03/1.webp.jpg",
+          "name":"重磅桑蚕丝裙女2019夏季新款宽松显瘦新式旗袍汉服改良真丝连衣裙",
+          "price":"150"
+        }
+      ]
+      }]
+    },
+    {
+      "firstCateName": "丝巾New",
+      "firstCateId": "0000001",
+      "secondCateItems": [{
+        "secondCateName": "丝巾",
+        "secondCateId": "1000001",
+        "items": [{
+          "itemImg": "http://sijinimg.oss-cn-beijing.aliyuncs.com/goodlist/z10.jpg",
+          "title": "真丝绒系列",
+          "itemId": "200001",
+          "headerimg":"http://headerimages.oss-cn-beijing.aliyuncs.com/03/1.webp.jpg",
+          "name":"帛媛重磅香云纱连衣裙中长款莨绸真丝改良旗袍短袖长款桑蚕丝复古",
+          "price":"150"
+        },
+        {
+          "itemImg": "http://sijinimg.oss-cn-beijing.aliyuncs.com/goodlist/z11.jpg",
+          "title": "时尚方巾",
+          "itemId": "2000002",
+          "headerimg":"http://headerimages.oss-cn-beijing.aliyuncs.com/03/1.webp.jpg",
+          "name":"旗袍年轻款少女改良旗袍式连衣裙中国风长款优雅日常演出红色春夏 旗袍",
+          "price":"150"
+        },
+        {
+          "itemImg": "http://sijinimg.oss-cn-beijing.aliyuncs.com/goodlist/z4.jpg",
+          "title": "真丝长巾",
+          "itemId": "2000003",
+          "headerimg":"http://headerimages.oss-cn-beijing.aliyuncs.com/03/1.webp.jpg",
+          "name":"改良旗袍真丝双绉连衣裙桑蚕丝2019春夏新款高端大牌中长款中国风 旗袍",
+          "price":"150"
+        },
+        {
+          "itemImg": "http://sijinimg.oss-cn-beijing.aliyuncs.com/goodlist/z5.jpg",
+          "title": "时尚披肩",
+          "itemId": "2000004",
+          "headerimg":"http://headerimages.oss-cn-beijing.aliyuncs.com/03/1.webp.jpg",
+          "name":"反季重磅真丝连衣裙女加厚香云纱旗袍中长款杭州桑蚕丝2019春新 旗袍",
+          "price":"150"
+        },
+        {
+          "itemImg": "http://sijinimg.oss-cn-beijing.aliyuncs.com/goodlist/z6.jpg",
+          "title": "真丝刺绣系列",
+          "itemId": "2000005",
+          "headerimg":"http://headerimages.oss-cn-beijing.aliyuncs.com/03/1.webp.jpg",
+          "name":"酒红绣花妈妈装婚宴真丝旗袍喜婆婆婚庆婚礼旗袍裙礼服改良短款夏 旗袍",
+          "price":"150"
+        },
+        {
+          "itemImg": "http://sijinimg.oss-cn-beijing.aliyuncs.com/goodlist/z8.jpg",
+          "title": "羊毛系列",
+          "itemId": "2000006",
+          "headerimg":"http://headerimages.oss-cn-beijing.aliyuncs.com/03/1.webp.jpg",
+          "name":"儿童旗袍夏季中国风走秀小女孩洋气弹古筝演出女童汉服雪纺连衣裙",
+          "price":"150"
+        }
+      ]
+      }]
+    },
+    {
+      "firstCateName": "手工刺绣",
+      "firstCateId": "0000001",
+      "secondCateItems": [{
+        "secondCateName": "丝巾",
+        "secondCateId": "1000001",
+        "items": [{
+          "itemImg": "http://ddymaster.oss-cn-shenzhen.aliyuncs.com/sj_1.png",
+          "title": "真丝绒系列",
+          "itemId": "2000007",
+          "headerimg":"http://headerimages.oss-cn-beijing.aliyuncs.com/03/1.webp.jpg",
+          "name":"真丝旗袍改良版连衣裙2019夏季新款复古中国风修身气质杭州桑蚕丝 旗袍",
+          "price":"150"
+        },
+        {
+          "itemImg": "http://ddymaster.oss-cn-shenzhen.aliyuncs.com/sj_2.png",
+          "title": "时尚方巾",
+          "itemId": "2000008",
+          "headerimg":"http://headerimages.oss-cn-beijing.aliyuncs.com/03/1.webp.jpg",
+          "name":"2019春夏新款致爱轩长款真丝旗袍梅花印花端庄气质酒局礼服七分袖 旗袍",
+          "price":"150"
+        },
+        {
+          "itemImg": "http://ddymaster.oss-cn-shenzhen.aliyuncs.com/sj_3.png",
+          "title": "真丝长巾",
+          "itemId": "2000009",
+          "headerimg":"http://headerimages.oss-cn-beijing.aliyuncs.com/03/1.webp.jpg",
+          "name":"走秀演出旗袍女夏季2019新款中国风日常改良雪纺盖袖中长款连衣裙 旗袍",
+          "price":"150"
+        },
+        {
+          "itemImg": "http://ddymaster.oss-cn-shenzhen.aliyuncs.com/sj_4.png",
+          "title": "时尚披肩",
+          "itemId": "2000010",
+          "headerimg":"http://headerimages.oss-cn-beijing.aliyuncs.com/03/1.webp.jpg",
+          "name":"真丝旗袍短2019新款春夏女时尚改良老上海中国风桑蚕丝高端中长款 旗袍",
+          "price":"150"
+        },
+        {
+          "itemImg": "http://ddymaster.oss-cn-shenzhen.aliyuncs.com/sj_5.png",
+          "title": "真丝刺绣系列",
+          "itemId": "2000011",
+          "headerimg":"http://headerimages.oss-cn-beijing.aliyuncs.com/03/1.webp.jpg",
+          "name":"奥黛旗袍改良版连衣裙新式2019春款中国风长款优雅婚礼妈妈礼服 旗袍",
+          "price":"150"
+        },
+        {
+          "itemImg": "http://ddymaster.oss-cn-shenzhen.aliyuncs.com/sj_6.png",
+          "title": "羊毛系列",
+          "itemId": "2000012",
+          "headerimg":"http://headerimages.oss-cn-beijing.aliyuncs.com/03/1.webp.jpg",
+          "name":"真丝旗袍长款春夏新品女改良演出走秀新式旗袍年轻款典雅大气显瘦 旗袍",
+          "price":"150"
+        }
+      ]
+      }]
+    },
+    {
+      "firstCateName": "送礼臻品",
+      "firstCateId": "0000001",
+      "secondCateItems": [{
+        "secondCateName": "丝巾",
+        "secondCateId": "1000001",
+        "items": [{
+          "itemImg": "http://ddymaster.oss-cn-shenzhen.aliyuncs.com/sj_1.png",
+          "title": "真丝绒系列",
+          "itemId": "2000013",
+          "headerimg":"http://headerimages.oss-cn-beijing.aliyuncs.com/03/1.webp.jpg",
+          "name":"旗袍2019春季新款改良版复古真丝旗袍裙日常短款修身连衣裙少女夏 旗袍",
+          "price":"150"
+        },
+        {
+          "itemImg": "http://ddymaster.oss-cn-shenzhen.aliyuncs.com/sj_2.png",
+          "title": "时尚方巾",
+          "itemId": "2000014",
+          "headerimg":"http://headerimages.oss-cn-beijing.aliyuncs.com/03/1.webp.jpg",
+          "name":"真丝旗袍喜婆婆丈母娘岳母结婚宴会高贵礼服2019春夏季新款妈妈装 旗袍",
+          "price":"150"
+        },
+        {
+          "itemImg": "http://ddymaster.oss-cn-shenzhen.aliyuncs.com/sj_3.png",
+          "title": "真丝长巾",
+          "itemId": "2000015",
+          "headerimg":"http://headerimages.oss-cn-beijing.aliyuncs.com/03/1.webp.jpg",
+          "name":"真丝旗袍长款2019夏季新款复古改良桑蚕丝时尚中国风连衣裙少女冬 旗袍",
+          "price":"150"
+        },
+        {
+          "itemImg": "http://ddymaster.oss-cn-shenzhen.aliyuncs.com/sj_4.png",
+          "title": "时尚披肩",
+          "itemId": "2000016",
+          "headerimg":"http://headerimages.oss-cn-beijing.aliyuncs.com/03/1.webp.jpg",
+          "name":"汉服女民国风复古女装汉元素改良旗袍中国风汉改日常唐装女连衣裙",
+          "price":"150"
+        },
+        {
+          "itemImg": "http://ddymaster.oss-cn-shenzhen.aliyuncs.com/sj_5.png",
+          "title": "真丝刺绣系列",
+          "itemId": "2000017",
+          "headerimg":"http://headerimages.oss-cn-beijing.aliyuncs.com/03/1.webp.jpg",
+          "name":"江南范新式旗袍改良版连衣裙年轻款宽松重工民族风刺绣复古中长款 旗袍",
+          "price":"150"
+        },
+        {
+          "itemImg": "http://ddymaster.oss-cn-shenzhen.aliyuncs.com/sj_6.png",
+          "title": "羊毛系列",
+          "itemId": "2000018",
+          "headerimg":"http://headerimages.oss-cn-beijing.aliyuncs.com/03/1.webp.jpg",
+          "name":"秀禾服新娘2019新款龙凤褂结婚中式礼服女古装旗袍敬酒服秀和服女 旗袍",
+          "price":"150"
+        }
+      ]
+      }]
+    },
+    {
+      "firstCateName": "个人定制",
+      "firstCateId": "0000001",
+      "secondCateItems": [{
+        "secondCateName": "丝巾",
+        "secondCateId": "1000001",
+        "items": [{
+          "itemImg": "http://ddymaster.oss-cn-shenzhen.aliyuncs.com/sj_1.png",
+          "title": "真丝绒系列",
+          "itemId": "2000019",
+          "headerimg":"http://headerimages.oss-cn-beijing.aliyuncs.com/03/1.webp.jpg",
+          "name":"旗袍2019春季新款改良版复古真丝旗袍裙日常短款修身连衣裙少女夏 旗袍",
+          "price":"150"
+        },
+        {
+          "itemImg": "http://ddymaster.oss-cn-shenzhen.aliyuncs.com/sj_2.png",
+          "title": "时尚方巾",
+          "itemId": "2000020",
+          "headerimg":"http://headerimages.oss-cn-beijing.aliyuncs.com/03/1.webp.jpg",
+          "name":"真丝旗袍喜婆婆丈母娘岳母结婚宴会高贵礼服2019春夏季新款妈妈装 旗袍",
+          "price":"150"
+        },
+        {
+          "itemImg": "http://ddymaster.oss-cn-shenzhen.aliyuncs.com/sj_3.png",
+          "title": "真丝长巾",
+          "itemId": "2000021",
+          "headerimg":"http://headerimages.oss-cn-beijing.aliyuncs.com/03/1.webp.jpg",
+          "name":"真丝旗袍长款2019夏季新款复古改良桑蚕丝时尚中国风连衣裙少女冬 旗袍",
+          "price":"150"
+        },
+        {
+          "itemImg": "http://ddymaster.oss-cn-shenzhen.aliyuncs.com/sj_4.png",
+          "title": "时尚披肩",
+          "itemId": "2000022",
+          "headerimg":"http://headerimages.oss-cn-beijing.aliyuncs.com/03/1.webp.jpg",
+          "name":"汉服女民国风复古女装汉元素改良旗袍中国风汉改日常唐装女连衣裙",
+          "price":"150"
+        },
+        {
+          "itemImg": "http://ddymaster.oss-cn-shenzhen.aliyuncs.com/sj_5.png",
+          "title": "真丝刺绣系列",
+          "itemId": "2000023",
+          "headerimg":"http://headerimages.oss-cn-beijing.aliyuncs.com/03/1.webp.jpg",
+          "name":"江南范新式旗袍改良版连衣裙年轻款宽松重工民族风刺绣复古中长款 旗袍",
+          "price":"150"
+        },
+        {
+          "itemImg": "http://ddymaster.oss-cn-shenzhen.aliyuncs.com/sj_6.png",
+          "title": "羊毛系列",
+          "itemId": "2000024",
+          "headerimg":"http://headerimages.oss-cn-beijing.aliyuncs.com/03/1.webp.jpg",
+          "name":"秀禾服新娘2019新款龙凤褂结婚中式礼服女古装旗袍敬酒服秀和服女 旗袍",
+          "price":"150"
+        }
+      ]
+      }]
+    }
+  ]
+}
